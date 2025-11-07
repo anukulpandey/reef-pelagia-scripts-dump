@@ -20,3 +20,8 @@
   node get-native-balance.js
   ```
 
+- map-revive.js : maps native address to revive address
+
+  ```
+  node map-revive.js
+  ```
